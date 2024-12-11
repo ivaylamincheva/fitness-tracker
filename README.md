@@ -55,26 +55,27 @@ npm run reset-project
 
 Contributions are welcome! Follow these steps:
 
-1. Fork the repository.
-2. Create a new branch:
+Fork the repository.
 
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+Create a new branch:
 
-3. Commit your changes:
+```bash
+git checkout -b feature/your-feature-name
+```
 
-   ```bash
-   git commit -m 'Add your feature'
-   ```
+Commit your changes:
 
-4. Push the branch:
+```bash
+git commit -m 'Add your feature'
+```
 
-   ```bash
-   git push origin feature/your-feature-name
-   ```
+Push the branch:
 
-5. Open a Pull Request.
+```bash
+git push origin feature/your-feature-name
+```
+
+Open a Pull Request.
 
 ## License
 
